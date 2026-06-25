@@ -1,0 +1,351 @@
+Customer ID,Gender,Age,Total Spend,Items Purchased,Average Rating,Days Since Last Purchase,Satisfaction Level,Store Location,Loyalty Program
+101,Female,29,1120.2,14,4.6,25,Satisfied,Chapel Street,No
+102,Male,34,780.5,11,4.1,18,Neutral,Collins Street,Yes
+103,Female,43,510.75,9,3.4,42,Unsatisfied,Chapel Street,Yes
+104,Male,30,1480.3,19,4.7,12,Satisfied,Collins Street,No
+105,Male,27,720.4,13,4.0,55,Unsatisfied,St Kilda,Yes
+106,Female,37,440.8,8,3.1,22,Neutral,Bourke Street,Yes
+107,Female,31,1150.6,15,4.5,28,Satisfied,Docklands,No
+108,Male,35,800.9,12,4.2,14,Neutral,Collins Street,Yes
+109,Female,41,495.25,10,3.6,40,Unsatisfied,Docklands,Yes
+110,Male,28,1520.1,21,4.8,9,Satisfied,St Kilda,No
+111,Male,32,690.3,11,3.8,34,Unsatisfied,Bourke Street,No
+112,Female,36,470.5,7,3.2,20,Neutral,Flinders Lane,No
+113,Female,30,1200.8,16,4.3,21,Satisfied,Collins Street,Yes
+114,Male,33,820.75,13,4.4,15,Satisfied,Bourke Street,No
+115,Female,42,530.4,9,3.5,38,Unsatisfied,Chapel Street,No
+116,Male,29,1360.2,18,4.9,11,Satisfied,Docklands,Yes
+117,Male,26,700.6,12,3.7,48,Unsatisfied,Bourke Street,No
+118,Female,38,450.9,8,3.0,25,Neutral,Chapel Street,Yes
+119,Female,32,1170.3,14,4.7,29,Satisfied,St Kilda,Yes
+120,Male,34,790.2,11,4.0,16,Neutral,Melbourne Central,Yes
+121,Female,43,505.75,10,3.3,41,Unsatisfied,Docklands,Yes
+122,Male,30,1470.5,20,4.8,13,Satisfied,Docklands,Yes
+123,Male,27,710.4,13,4.1,54,Unsatisfied,Queen Victoria Market,No
+124,Female,37,430.8,7,3.4,23,Neutral,Flinders Lane,Yes
+125,Female,31,1140.6,15,4.6,27,Satisfied,Flinders Lane,No
+126,Male,35,810.9,12,4.3,13,Neutral,Queen Victoria Market,Yes
+127,Female,41,485.25,9,3.6,39,Unsatisfied,Collins Street,Yes
+128,Male,28,1500.1,21,4.9,10,Satisfied,Bourke Street,Yes
+129,Male,32,670.3,10,3.8,33,Unsatisfied,Bourke Street,No
+130,Female,36,460.5,8,3.1,19,Neutral,Bourke Street,Yes
+131,Female,30,1190.8,16,4.5,20,Satisfied,Melbourne Central,No
+132,Male,33,830.75,13,4.2,14,Satisfied,St Kilda,No
+133,Female,42,520.4,9,3.5,37,Unsatisfied,Queen Victoria Market,Yes
+134,Male,29,1370.2,18,4.7,10,Satisfied,Docklands,Yes
+135,Male,26,690.6,12,3.9,47,Unsatisfied,Bourke Street,Yes
+136,Female,38,440.9,8,3.2,24,Neutral,Docklands,Yes
+137,Female,32,1160.3,14,4.4,22,Satisfied,Chapel Street,No
+138,Male,34,800.2,11,4.1,17,Neutral,Southbank,No
+139,Female,43,500.75,10,3.3,40,Unsatisfied,Bourke Street,Yes
+140,Male,30,1460.5,20,4.8,12,Satisfied,Queen Victoria Market,Yes
+141,Male,27,700.4,13,4.0,53,Unsatisfied,Queen Victoria Market,Yes
+142,Female,37,420.8,7,3.1,21,Neutral,Chapel Street,No
+143,Female,31,1130.6,15,4.5,26,Satisfied,Bourke Street,Yes
+144,Male,35,820.9,12,4.3,12,Neutral,Queen Victoria Market,No
+145,Female,41,480.25,9,3.6,38,Unsatisfied,Bourke Street,Yes
+146,Male,28,1490.1,21,4.9,9,Satisfied,Southbank,No
+147,Male,32,680.3,10,3.8,32,Unsatisfied,Richmond,Yes
+148,Female,36,470.5,8,3.0,18,Neutral,Chapel Street,Yes
+149,Female,30,1180.8,16,4.7,19,Satisfied,Queen Victoria Market,No
+150,Male,34,790.2,11,4.0,15,Neutral,Docklands,No
+151,Female,43,505.75,10,3.3,39,Unsatisfied,Southbank,Yes
+152,Male,30,1470.5,20,4.8,13,Satisfied,Richmond,Yes
+153,Male,27,710.4,13,4.1,54,Unsatisfied,Queen Victoria Market,Yes
+154,Female,37,430.8,7,3.4,23,Neutral,Collins Street,No
+155,Female,31,1140.6,15,4.6,27,Satisfied,Flinders Lane,No
+156,Male,35,810.9,12,4.3,13,Neutral,Queen Victoria Market,Yes
+157,Female,41,485.25,9,3.6,39,Unsatisfied,Flinders Lane,No
+158,Male,28,1500.1,21,4.9,10,Satisfied,Flinders Lane,No
+159,Male,32,670.3,10,3.8,33,Unsatisfied,Melbourne Central,Yes
+160,Female,36,460.5,8,3.1,19,Neutral,Collins Street,Yes
+161,Female,30,1190.8,16,4.5,20,Satisfied,Southbank,Yes
+162,Male,33,830.75,13,4.2,14,Satisfied,Queen Victoria Market,Yes
+163,Female,42,520.4,9,3.5,37,Unsatisfied,Bourke Street,No
+164,Male,29,1370.2,18,4.7,10,Satisfied,Melbourne Central,Yes
+165,Male,26,690.6,12,3.9,47,Unsatisfied,Richmond,No
+166,Female,38,440.9,8,3.2,24,Neutral,Bourke Street,Yes
+167,Female,32,1160.3,14,4.4,22,Satisfied,Melbourne Central,Yes
+168,Male,34,800.2,11,4.1,17,Neutral,Bourke Street,Yes
+169,Female,43,500.75,10,3.3,40,Unsatisfied,St Kilda,No
+170,Male,30,1460.5,20,4.8,12,Satisfied,Chapel Street,Yes
+171,Male,27,700.4,13,4.0,53,Unsatisfied,Docklands,No
+172,Female,37,420.8,7,3.1,21,,Melbourne Central,Yes
+173,Female,31,1130.6,15,4.5,26,Satisfied,Melbourne Central,No
+174,Male,35,820.9,12,4.3,12,Neutral,Docklands,Yes
+175,Female,41,480.25,9,3.6,38,Unsatisfied,Southbank,Yes
+176,Male,28,1490.1,21,4.9,9,Satisfied,Bourke Street,Yes
+177,Male,32,680.3,10,3.8,32,Unsatisfied,Melbourne Central,No
+178,Female,36,470.5,8,3.0,18,Neutral,Flinders Lane,Yes
+179,Female,30,1180.8,16,4.7,19,Satisfied,Flinders Lane,Yes
+180,Male,34,790.2,11,4.0,15,Neutral,Bourke Street,Yes
+181,Female,43,505.75,10,3.3,39,Unsatisfied,Melbourne Central,No
+182,Male,30,1470.5,20,4.8,13,Satisfied,Richmond,No
+183,Male,27,710.4,13,4.1,54,Unsatisfied,Chapel Street,No
+184,Female,37,430.8,7,3.4,23,Neutral,Melbourne Central,No
+185,Female,31,1140.6,15,4.6,27,Satisfied,Chapel Street,No
+186,Male,35,810.9,12,4.3,13,Neutral,Chapel Street,No
+187,Female,41,485.25,9,3.6,39,Unsatisfied,Bourke Street,Yes
+188,Male,28,1500.1,21,4.9,10,Satisfied,Collins Street,No
+189,Male,32,670.3,10,3.8,33,Unsatisfied,Bourke Street,Yes
+190,Female,36,460.5,8,3.1,19,Neutral,Docklands,No
+191,Female,30,1190.8,16,4.5,20,Satisfied,Bourke Street,Yes
+192,Male,33,830.75,13,4.2,14,Satisfied,St Kilda,Yes
+193,Female,42,520.4,9,3.5,37,Unsatisfied,Richmond,Yes
+194,Male,29,1370.2,18,4.7,10,Satisfied,Melbourne Central,No
+195,Male,26,690.6,12,3.9,47,Unsatisfied,Flinders Lane,Yes
+196,Female,38,440.9,8,3.2,24,Neutral,Melbourne Central,Yes
+197,Female,32,1160.3,14,4.4,22,Satisfied,St Kilda,No
+198,Male,34,800.2,11,4.1,17,Neutral,Queen Victoria Market,No
+199,Female,43,500.75,10,3.3,40,Unsatisfied,Flinders Lane,Yes
+200,Male,30,1460.5,20,4.8,12,Satisfied,Richmond,Yes
+201,Male,27,700.4,13,4.0,53,Unsatisfied,Melbourne Central,Yes
+202,Female,37,420.8,7,3.1,21,Neutral,Richmond,Yes
+203,Female,31,1130.6,15,4.5,26,Satisfied,St Kilda,No
+204,Male,35,820.9,12,4.3,12,Neutral,Collins Street,No
+205,Female,41,480.25,9,3.6,38,Unsatisfied,Collins Street,No
+206,Male,28,1490.1,21,4.9,9,Satisfied,Chapel Street,Yes
+207,Male,32,680.3,10,3.8,32,Unsatisfied,Flinders Lane,Yes
+208,Female,36,470.5,8,3.0,18,Neutral,Docklands,No
+209,Female,30,1180.8,16,4.7,19,Satisfied,Richmond,Yes
+210,Male,34,790.2,11,4.0,15,Neutral,Bourke Street,Yes
+211,Female,43,505.75,10,3.3,39,Unsatisfied,Melbourne Central,No
+212,Male,30,1470.5,20,4.8,13,Satisfied,Collins Street,Yes
+213,Male,27,710.4,13,4.1,54,Unsatisfied,Queen Victoria Market,No
+214,Female,37,430.8,7,3.4,23,Neutral,Melbourne Central,No
+215,Female,31,1140.6,15,4.6,27,Satisfied,Melbourne Central,No
+216,Male,35,810.9,12,4.3,13,Neutral,Queen Victoria Market,Yes
+217,Female,41,485.25,9,3.6,39,Unsatisfied,Flinders Lane,No
+218,Male,28,1500.1,21,4.9,10,Satisfied,Melbourne Central,No
+219,Male,32,670.3,10,3.8,33,Unsatisfied,Southbank,No
+220,Female,36,460.5,8,3.1,19,Neutral,Queen Victoria Market,Yes
+221,Female,30,1190.8,16,4.5,20,Satisfied,Flinders Lane,Yes
+222,Male,33,830.75,13,4.2,14,Satisfied,Chapel Street,Yes
+223,Female,42,520.4,9,3.5,37,Unsatisfied,Bourke Street,Yes
+224,Male,29,1370.2,18,4.7,10,Satisfied,Melbourne Central,No
+225,Male,26,690.6,12,3.9,47,Unsatisfied,Docklands,Yes
+226,Female,38,440.9,8,3.2,24,Neutral,Flinders Lane,Yes
+227,Female,32,1160.3,14,4.4,22,Satisfied,Docklands,No
+228,Male,34,800.2,11,4.1,17,Neutral,Bourke Street,No
+229,Female,43,500.75,10,3.3,40,Unsatisfied,Flinders Lane,No
+230,Male,30,1460.5,20,4.8,12,Satisfied,Melbourne Central,Yes
+231,Male,27,700.4,13,4.0,53,Unsatisfied,Flinders Lane,Yes
+232,Female,37,420.8,7,3.1,21,Neutral,Collins Street,Yes
+233,Female,31,1130.6,15,4.5,26,Satisfied,Melbourne Central,No
+234,Male,35,820.9,12,4.3,12,Neutral,Bourke Street,No
+235,Female,41,480.25,9,3.6,38,Unsatisfied,Flinders Lane,No
+236,Male,28,1490.1,21,4.9,9,Satisfied,Melbourne Central,No
+237,Male,32,680.3,10,3.8,32,Unsatisfied,Southbank,No
+238,Female,36,470.5,8,3.0,18,Neutral,Chapel Street,No
+239,Female,30,1180.8,16,4.7,19,Satisfied,Chapel Street,No
+240,Male,34,790.2,11,4.0,15,Neutral,St Kilda,Yes
+241,Female,43,505.75,10,3.3,39,Unsatisfied,Southbank,Yes
+242,Male,30,1470.5,20,4.8,13,Satisfied,Flinders Lane,Yes
+243,Male,27,710.4,13,4.1,54,Unsatisfied,Bourke Street,No
+244,Female,37,430.8,7,3.4,23,,Bourke Street,Yes
+245,Female,31,1130.6,15,4.5,26,Satisfied,Docklands,No
+246,Male,35,820.9,12,4.3,12,Neutral,Flinders Lane,No
+247,Female,41,480.25,9,3.6,38,Unsatisfied,Melbourne Central,Yes
+248,Male,28,1490.1,21,4.9,9,Satisfied,Richmond,No
+249,Male,32,680.3,10,3.8,32,Unsatisfied,Collins Street,No
+250,Female,36,470.5,8,3.0,18,Neutral,Flinders Lane,No
+251,Female,30,1180.8,16,4.7,19,Satisfied,Queen Victoria Market,Yes
+252,Male,34,790.2,11,4.0,15,Neutral,Melbourne Central,No
+253,Female,43,505.75,10,3.3,39,Unsatisfied,Bourke Street,No
+254,Male,30,1470.5,20,4.8,13,Satisfied,Queen Victoria Market,Yes
+255,Male,27,710.4,13,4.1,54,Unsatisfied,Richmond,Yes
+256,Female,37,430.8,7,3.4,23,Neutral,Richmond,Yes
+257,Female,31,1140.6,15,4.6,27,Satisfied,Bourke Street,No
+258,Male,35,810.9,12,4.3,13,Neutral,Docklands,Yes
+259,Female,41,485.25,9,3.6,39,Unsatisfied,Flinders Lane,No
+260,Male,28,1500.1,21,4.9,10,Satisfied,St Kilda,No
+261,Male,32,670.3,10,3.8,33,Unsatisfied,Bourke Street,Yes
+262,Female,36,460.5,8,3.1,19,Neutral,Queen Victoria Market,No
+263,Female,30,1190.8,16,4.5,20,Satisfied,Chapel Street,No
+264,Male,33,830.75,13,4.2,14,Satisfied,Flinders Lane,Yes
+265,Female,42,520.4,9,3.5,37,Unsatisfied,Southbank,Yes
+266,Male,29,1370.2,18,4.7,10,Satisfied,Chapel Street,Yes
+267,Male,26,690.6,12,3.9,47,Unsatisfied,Flinders Lane,Yes
+268,Female,38,440.9,8,3.2,24,Neutral,Queen Victoria Market,Yes
+269,Female,32,1160.3,14,4.4,22,Satisfied,Melbourne Central,Yes
+270,Male,34,800.2,11,4.1,17,Neutral,Chapel Street,Yes
+271,Female,43,500.75,10,3.3,40,Unsatisfied,Chapel Street,Yes
+272,Male,30,1460.5,20,4.8,12,Satisfied,Queen Victoria Market,No
+273,Male,27,700.4,13,4.0,53,Unsatisfied,Chapel Street,No
+274,Female,37,430.8,7,3.4,23,Neutral,Southbank,Yes
+275,Female,31,1140.6,15,4.5,27,Satisfied,St Kilda,No
+276,Male,35,820.9,12,4.3,12,Neutral,Bourke Street,Yes
+277,Female,41,480.25,9,3.6,38,Unsatisfied,Queen Victoria Market,No
+278,Male,28,1490.1,21,4.9,9,Satisfied,Queen Victoria Market,No
+279,Male,32,680.3,10,3.8,32,Unsatisfied,St Kilda,Yes
+280,Female,36,470.5,8,3.0,18,Neutral,Chapel Street,Yes
+281,Female,30,1180.8,16,4.7,19,Satisfied,Southbank,Yes
+282,Male,34,790.2,11,4.0,15,Neutral,Southbank,Yes
+283,Female,43,505.75,10,3.3,39,Unsatisfied,Docklands,Yes
+284,Male,30,1470.5,20,4.8,13,Satisfied,Melbourne Central,No
+285,Male,27,710.4,13,4.1,54,Unsatisfied,Richmond,Yes
+286,Female,37,430.8,7,3.4,23,Neutral,Queen Victoria Market,No
+287,Female,31,1130.6,15,4.5,26,Satisfied,Melbourne Central,No
+288,Male,35,820.9,12,4.3,13,Neutral,St Kilda,Yes
+289,Female,41,485.25,9,3.6,39,Unsatisfied,Queen Victoria Market,No
+290,Male,28,1500.1,21,4.9,10,Satisfied,Chapel Street,Yes
+291,Male,32,670.3,10,3.8,33,Unsatisfied,Docklands,Yes
+292,Female,36,460.5,8,3.1,19,Neutral,Melbourne Central,No
+293,Female,30,1190.8,16,4.5,20,Satisfied,Flinders Lane,Yes
+294,Male,33,830.75,13,4.2,14,Satisfied,Queen Victoria Market,Yes
+295,Female,42,520.4,9,3.5,37,Unsatisfied,Queen Victoria Market,No
+296,Male,29,1370.2,18,4.7,10,Satisfied,Southbank,Yes
+297,Male,26,690.6,12,3.9,47,Unsatisfied,Docklands,No
+298,Female,38,440.9,8,3.2,24,Neutral,Bourke Street,Yes
+299,Female,32,1160.3,14,4.4,22,Satisfied,St Kilda,No
+300,Male,34,800.2,11,4.1,17,Neutral,Docklands,Yes
+301,Male,36,1420.8,19,4.6,11,Satisfied,Melbourne Central,No
+302,Female,29,730.4,14,4.0,50,Unsatisfied,Bourke Street,No
+303,Female,35,450.6,7,3.3,21,Neutral,Queen Victoria Market,Yes
+304,Male,31,1210.6,17,4.8,18,Satisfied,St Kilda,No
+305,Male,27,780.9,11,4.2,16,Neutral,Richmond,Yes
+306,Female,42,495.25,10,3.5,35,Unsatisfied,St Kilda,No
+307,Male,29,1390.2,18,4.7,9,Satisfied,St Kilda,No
+308,Male,26,670.6,12,3.9,46,Unsatisfied,Chapel Street,No
+309,Female,38,460.9,8,3.2,25,Neutral,Docklands,No
+310,Female,32,1170.3,14,4.5,21,Satisfied,Bourke Street,No
+311,Male,34,810.2,11,4.0,14,Neutral,Chapel Street,Yes
+312,Female,43,515.75,9,3.3,38,Unsatisfied,Collins Street,Yes
+313,Male,30,1450.5,20,4.8,12,Satisfied,Queen Victoria Market,Yes
+314,Male,27,690.4,13,4.1,52,Unsatisfied,Queen Victoria Market,No
+315,Female,37,420.8,7,3.4,24,Neutral,St Kilda,Yes
+316,Female,31,1130.6,15,4.5,26,Satisfied,Flinders Lane,No
+317,Male,35,820.9,12,4.3,13,Neutral,Melbourne Central,No
+318,Female,41,480.25,9,3.6,39,Unsatisfied,Bourke Street,Yes
+319,Male,28,1490.1,21,4.9,9,Satisfied,Collins Street,No
+320,Male,32,680.3,10,3.8,32,Unsatisfied,St Kilda,Yes
+321,Female,36,470.5,8,3.0,18,Neutral,Flinders Lane,No
+322,Female,30,1180.8,16,4.7,19,Satisfied,Flinders Lane,No
+323,Male,34,790.2,11,4.0,15,Neutral,Melbourne Central,Yes
+324,Female,43,505.75,10,3.3,39,Unsatisfied,St Kilda,Yes
+325,Male,30,1470.5,20,4.8,13,Satisfied,Collins Street,Yes
+326,Male,27,710.4,13,4.1,54,Unsatisfied,Docklands,Yes
+327,Female,37,430.8,7,3.4,23,Neutral,Flinders Lane,No
+328,Female,31,1140.6,15,4.5,27,Satisfied,Docklands,No
+329,Male,35,820.9,12,4.3,13,Neutral,Chapel Street,Yes
+330,Female,41,485.25,9,3.6,39,Unsatisfied,Melbourne Central,No
+331,Male,28,1500.1,21,4.9,10,Satisfied,Queen Victoria Market,No
+332,Male,32,670.3,10,3.8,33,Unsatisfied,Chapel Street,No
+333,Female,36,460.5,8,3.1,19,Neutral,Southbank,Yes
+334,Female,30,1190.8,16,4.5,20,Satisfied,Southbank,Yes
+335,Male,33,830.75,13,4.2,14,Satisfied,Flinders Lane,No
+336,Female,42,520.4,9,3.5,37,Unsatisfied,St Kilda,Yes
+337,Male,29,1370.2,18,4.7,10,Satisfied,St Kilda,Yes
+338,Male,26,690.6,12,3.9,47,Unsatisfied,Chapel Street,No
+339,Female,38,440.9,8,3.2,24,Neutral,Chapel Street,Yes
+340,Female,32,1160.3,14,4.4,22,Satisfied,St Kilda,Yes
+341,Male,34,800.2,11,4.1,17,Neutral,Southbank,Yes
+342,Female,43,525.75,9,3.3,40,Unsatisfied,Bourke Street,Yes
+343,Male,30,1460.5,20,4.8,11,Satisfied,Chapel Street,No
+344,Male,27,720.4,13,4.0,55,Unsatisfied,Melbourne Central,No
+345,Female,37,440.8,7,3.2,25,Neutral,Richmond,No
+346,Female,31,1150.6,15,4.5,28,Satisfied,Queen Victoria Market,Yes
+347,Male,35,830.9,12,4.3,14,Neutral,Bourke Street,Yes
+348,Female,41,490.25,9,3.6,40,Unsatisfied,Southbank,No
+349,Male,28,1480.1,21,4.9,10,Satisfied,Bourke Street,Yes
+350,Male,32,690.3,10,3.8,34,Unsatisfied,Docklands,Yes
+351,Female,36,480.5,8,3.1,20,Neutral,Bourke Street,Yes
+352,Female,30,1170.8,16,4.7,21,Satisfied,Flinders Lane,No
+353,Male,34,790.2,11,4.0,15,Neutral,Richmond,Yes
+354,Female,43,510.75,10,3.3,41,Unsatisfied,Collins Street,Yes
+355,Male,30,1440.5,19,4.6,12,Satisfied,St Kilda,Yes
+356,Male,27,700.4,13,4.1,56,Unsatisfied,Melbourne Central,Yes
+357,Female,37,410.8,7,3.4,26,Neutral,Bourke Street,No
+358,Female,31,1160.6,15,4.5,29,Satisfied,Queen Victoria Market,No
+359,Male,35,810.9,12,4.3,14,Neutral,Collins Street,Yes
+360,Female,41,495.25,9,3.6,41,Unsatisfied,Queen Victoria Market,Yes
+361,Male,28,1490.1,21,4.9,10,Satisfied,Richmond,Yes
+362,Male,32,660.3,10,3.8,35,Unsatisfied,Flinders Lane,No
+363,Female,36,430.5,8,3.1,21,Neutral,St Kilda,Yes
+364,Female,30,1200.8,16,4.7,22,Satisfied,Richmond,Yes
+365,Male,34,780.2,11,4.1,16,Neutral,Flinders Lane,No
+366,Female,43,505.75,10,3.3,42,Unsatisfied,Bourke Street,Yes
+367,Male,30,1460.5,20,4.8,13,Satisfied,Chapel Street,No
+368,Male,27,710.4,13,4.1,57,Unsatisfied,Chapel Street,No
+369,Female,37,450.8,7,3.4,24,Neutral,Collins Street,Yes
+370,Female,31,1140.6,15,4.5,30,Satisfied,St Kilda,No
+371,Male,35,800.9,12,4.1,17,Neutral,Collins Street,Yes
+372,Female,41,475.25,9,3.6,42,Unsatisfied,Flinders Lane,Yes
+373,Male,28,1480.1,21,4.9,11,Satisfied,Flinders Lane,Yes
+374,Male,32,660.3,10,3.8,36,Unsatisfied,Docklands,No
+375,Female,36,470.5,8,3.0,22,Neutral,Chapel Street,No
+376,Female,30,1190.8,16,4.5,23,Satisfied,Melbourne Central,No
+377,Male,33,770.2,11,4.2,18,Neutral,Chapel Street,Yes
+378,Female,43,515.75,10,3.3,43,Unsatisfied,Flinders Lane,Yes
+379,Male,30,1450.5,19,4.6,12,Satisfied,Southbank,Yes
+380,Male,27,710.4,13,4.1,58,Unsatisfied,Collins Street,No
+381,Female,37,430.8,7,3.4,27,Neutral,Southbank,Yes
+382,Female,31,1160.6,15,4.5,31,Satisfied,Richmond,No
+383,Male,35,820.9,12,4.3,15,Neutral,Collins Street,Yes
+384,Female,41,495.25,9,3.6,43,Unsatisfied,Chapel Street,Yes
+385,Male,28,1490.1,21,4.9,10,Satisfied,Docklands,Yes
+386,Male,32,660.3,10,3.8,37,Unsatisfied,Collins Street,No
+387,Female,36,440.5,8,3.1,23,Neutral,Collins Street,No
+388,Female,30,1200.8,16,4.7,24,Satisfied,Southbank,No
+389,Male,34,780.2,11,4.1,16,Neutral,St Kilda,Yes
+390,Female,43,505.75,10,3.3,44,Unsatisfied,Collins Street,Yes
+391,Male,30,1460.5,20,4.8,13,Satisfied,Richmond,No
+392,Male,27,710.4,13,4.1,59,Unsatisfied,Flinders Lane,No
+393,Female,37,450.8,7,3.4,28,Neutral,Southbank,No
+394,Female,31,1140.6,15,4.5,32,Satisfied,St Kilda,No
+395,Male,35,800.9,12,4.1,17,Neutral,Queen Victoria Market,Yes
+396,Female,41,475.25,9,3.6,44,Unsatisfied,Melbourne Central,No
+397,Male,28,1480.1,21,4.9,12,Satisfied,Collins Street,Yes
+398,Male,32,660.3,10,3.8,38,Unsatisfied,St Kilda,Yes
+399,Female,36,470.5,8,3.0,22,Neutral,Melbourne Central,Yes
+400,Female,30,1190.8,16,4.5,25,Satisfied,Melbourne Central,Yes
+401,Male,33,800.2,11,4.1,18,Neutral,Flinders Lane,No
+402,Female,43,515.75,10,3.3,45,Unsatisfied,Queen Victoria Market,No
+403,Male,30,1450.5,19,4.6,13,Satisfied,Flinders Lane,Yes
+404,Male,27,710.4,13,4.1,60,Unsatisfied,Chapel Street,No
+405,Female,37,430.8,7,3.4,29,Neutral,Southbank,Yes
+406,Female,31,1160.6,15,4.5,33,Satisfied,Melbourne Central,No
+407,Male,35,820.9,12,4.3,16,Neutral,Queen Victoria Market,No
+408,Female,41,495.25,9,3.6,45,Unsatisfied,Flinders Lane,No
+409,Male,28,1490.1,21,4.9,11,Satisfied,Melbourne Central,No
+410,Male,32,660.3,10,3.8,39,Unsatisfied,Richmond,Yes
+411,Female,36,440.5,8,3.1,24,Neutral,Melbourne Central,No
+412,Female,30,1200.8,16,4.7,25,Satisfied,Bourke Street,Yes
+413,Male,34,780.2,11,4.1,17,Neutral,Bourke Street,Yes
+414,Female,43,505.75,10,3.3,46,Unsatisfied,Richmond,No
+415,Male,30,1460.5,20,4.8,14,Satisfied,Flinders Lane,Yes
+416,Male,27,710.4,13,4.1,61,Unsatisfied,Flinders Lane,Yes
+417,Female,37,450.8,7,3.4,30,Neutral,Flinders Lane,Yes
+418,Female,31,1140.6,15,4.5,34,Satisfied,St Kilda,No
+419,Male,35,800.9,12,4.1,19,Neutral,Docklands,Yes
+420,Female,41,475.25,9,3.6,46,Unsatisfied,Flinders Lane,No
+421,Male,28,1480.1,21,4.9,12,Satisfied,Queen Victoria Market,Yes
+422,Male,32,660.3,10,3.8,40,Unsatisfied,Docklands,No
+423,Female,36,470.5,8,3.0,26,Neutral,Chapel Street,Yes
+424,Female,30,1190.8,16,4.5,27,Satisfied,Melbourne Central,Yes
+425,Male,34,780.2,11,4.2,18,Neutral,Queen Victoria Market,No
+426,Female,43,515.75,10,3.3,47,Unsatisfied,St Kilda,Yes
+427,Male,30,1450.5,19,4.6,14,Satisfied,Docklands,Yes
+428,Male,27,710.4,13,4.1,62,Unsatisfied,Queen Victoria Market,No
+429,Female,37,430.8,7,3.4,31,Neutral,Bourke Street,No
+430,Female,31,1160.6,15,4.5,35,Satisfied,Richmond,No
+431,Male,35,820.9,12,4.3,20,Neutral,Collins Street,No
+432,Female,41,495.25,9,3.6,47,Unsatisfied,Docklands,No
+433,Male,28,1490.1,21,4.9,11,Satisfied,Queen Victoria Market,No
+434,Male,32,660.3,10,3.8,41,Unsatisfied,St Kilda,No
+435,Female,36,440.5,8,3.1,28,Neutral,Collins Street,No
+436,Female,30,1200.8,16,4.7,28,Satisfied,Chapel Street,No
+437,Male,34,780.2,11,4.1,19,Neutral,Richmond,No
+438,Female,43,505.75,10,3.3,48,Unsatisfied,Flinders Lane,No
+439,Male,30,1460.5,20,4.8,15,Satisfied,Melbourne Central,Yes
+440,Male,27,710.4,13,4.1,63,Unsatisfied,Richmond,Yes
+441,Female,37,450.8,7,3.4,32,Neutral,Collins Street,Yes
+442,Female,31,1140.6,15,4.5,36,Satisfied,Chapel Street,Yes
+443,Male,35,800.9,12,4.1,20,Neutral,Flinders Lane,No
+444,Female,41,475.25,9,3.6,48,Unsatisfied,Chapel Street,No
+445,Male,28,1480.1,21,4.9,13,Satisfied,Docklands,Yes
+446,Male,32,660.3,10,3.8,42,Unsatisfied,Chapel Street,No
+447,Female,36,470.5,8,3.0,27,Neutral,Chapel Street,No
+448,Female,30,1190.8,16,4.5,28,Satisfied,Collins Street,Yes
+449,Male,34,780.2,11,4.2,21,Neutral,St Kilda,Yes
+450,Female,43,515.75,10,3.3,49,Unsatisfied,Queen Victoria Market,No
