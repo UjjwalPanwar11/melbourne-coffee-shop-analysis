@@ -17,4 +17,22 @@ First, stop growing the loyalty program until overall satisfaction improves. 66%
 Second, run a targeted win back campaign for the 108 Drifting customers before they move to Gone Cold. The spend gap between Drifting and Regular is $382 per customer meaning converting even half of them generates over $20,000 in recovered revenue.
 Third, investigate Bourke Street and Flinders Lane as priority locations. Bourke Street had the lowest average spend in the dataset at $741 and the second highest unsatisfied count at 17 customers. Flinders Lane had 18 unsatisfied customers despite having the second highest Legend count in the network meaning the right customers are there but something in the experience is limiting their spend.
 Fourth, take the age cliff seriously. It is not a coincidence that satisfaction drops to near zero above age 34. Something structural in the product, atmosphere or value proposition is misaligned with what customers want as they get older and addressing it now is a retention play worth making before the current 30 to 33 cohort ages into the same pattern.
+## Dashboard Preview
 
+### Overview
+![Overview](Tab1.png)
+
+### Rating = Revenue
+![Rating = Revenue](Tab2.png)
+
+### Age Cliff
+![Age Cliff](Tab3.png)
+
+### Location Analysis
+![Location](Tab4.png)
+
+### Loyalty Deep Dive
+![Loyalty](Tab5.png)
+
+### Customer Segments
+![Segments](Tab6.png)
