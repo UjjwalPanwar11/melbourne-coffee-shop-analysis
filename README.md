@@ -36,3 +36,6 @@ Fourth, take the age cliff seriously. It is not a coincidence that satisfaction 
 
 ### Customer Segments
 ![Segments](Tab6.png)
+
+## Live Dashboard
+View the full interactive report here: https://app.powerbi.com/groups/bb8201e6-a93d-43a0-97c3-bd6500e428a4/reports/494c2df2-c350-4091-97e5-5057d0b05f04/f2346cbb276264b5475b?experience=power-bi
